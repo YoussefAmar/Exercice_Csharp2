@@ -1,0 +1,14 @@
+C:\Users\banon\source\repos\Seance5_exo1\Seance5_exo1\bin\Debug\Seance5_exo1.exe.config
+C:\Users\banon\source\repos\Seance5_exo1\Seance5_exo1\bin\Debug\Seance5_exo1.exe
+C:\Users\banon\source\repos\Seance5_exo1\Seance5_exo1\bin\Debug\Seance5_exo1.pdb
+C:\Users\banon\source\repos\Seance5_exo1\Seance5_exo1\obj\Debug\Seance5_exo1.csprojAssemblyReference.cache
+C:\Users\banon\source\repos\Seance5_exo1\Seance5_exo1\obj\Debug\Seance5_exo1.csproj.CoreCompileInputs.cache
+C:\Users\banon\source\repos\Seance5_exo1\Seance5_exo1\obj\Debug\Seance5_exo1.exe
+C:\Users\banon\source\repos\Seance5_exo1\Seance5_exo1\obj\Debug\Seance5_exo1.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance5_exo1\Seance5_exo1\obj\Debug\Seance5_exo1.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance5_exo1\Seance5_exo1\obj\Debug\Seance5_exo1.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance5_exo1\Seance5_exo1\obj\Debug\Seance5_exo1.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance5_exo1\Seance5_exo1\obj\Debug\Seance5_exo1.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance5_exo1\Seance5_exo1\bin\Debug\Seance5_exo1.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance5_exo1\Seance5_exo1\bin\Debug\Seance5_exo1.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Seance5_exo1\Seance5_exo1\bin\Debug\Seance5_exo1.pdb

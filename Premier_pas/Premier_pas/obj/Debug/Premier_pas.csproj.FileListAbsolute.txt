@@ -1,0 +1,10 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\bin\Debug\Premier_pas.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\bin\Debug\Premier_pas.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\bin\Debug\Premier_pas.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\obj\Debug\Premier_pas.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\obj\Debug\Premier_pas.FP.resources
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\obj\Debug\Premier_pas.Properties.Resources.resources
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\obj\Debug\Premier_pas.csproj.GenerateResource.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\obj\Debug\Premier_pas.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\obj\Debug\Premier_pas.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Premier_pas\Premier_pas\obj\Debug\Premier_pas.pdb

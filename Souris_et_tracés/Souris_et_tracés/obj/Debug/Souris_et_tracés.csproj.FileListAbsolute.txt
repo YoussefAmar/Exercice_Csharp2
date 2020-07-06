@@ -1,0 +1,10 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\obj\Debug\Souris_et_tracés.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\obj\Debug\Souris_et_tracés.F_Principal.resources
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\obj\Debug\Souris_et_tracés.Properties.Resources.resources
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\obj\Debug\Souris_et_tracés.csproj.GenerateResource.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\obj\Debug\Souris_et_tracés.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\bin\Debug\Souris_et_tracés.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\bin\Debug\Souris_et_tracés.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\bin\Debug\Souris_et_tracés.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\obj\Debug\Souris_et_tracés.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Souris_et_tracés\Souris_et_tracés\obj\Debug\Souris_et_tracés.pdb
